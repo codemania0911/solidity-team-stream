@@ -1,0 +1,10 @@
+privatekey.js
+
+node_modules
+.env
+
+#Hardhat files
+cache
+artifacts
+
+\hardhat.config.js
